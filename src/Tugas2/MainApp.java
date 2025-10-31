@@ -4,7 +4,7 @@ package Tugas2;
  * Kelas {@code Mainpp} berfungsi sebagai titik masuk (entry point)
  * dari program penilaian kinerja karyawan.
  * <p>
- *     Kelas ini membuat objek {@link PenilaianKinerjaKaryawan}
+ *     Kelas ini membuat objek {PenilaianKinerjaKaryawan}
  *     dengan data contoh, lalu menampilkan hasil penelitian
  *     menggunakan method {@code tampilkanRinciKaryawan()}.
  * </p>
@@ -34,7 +34,7 @@ public class MainApp {
     /**
      * Method utama (main method) yang akan dijalankan pertama kali oleh program Java.
      * <p>
-     * Method ini membuat instance dari kelas {@link PenilaianKinerjaKaryawan}
+     * Method ini membuat instance dari kelas {PenilaianKinerjaKaryawan}
      * dengan parameter nama, jabatan, dan nilai-nilai penilaian.
      * setelah itu, program akan menampilkan rincian hasil penelitian
      * </p>

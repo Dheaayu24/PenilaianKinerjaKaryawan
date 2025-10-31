@@ -89,10 +89,7 @@ public class PenilaianKinerjaKaryawan {
         } else {
             System.out.println("Kategori Kinerja    : Perlu Ditingkatkan");
         }
-    }
-
-    public boolean isBerprestasiTinggi() {
-        return hitungRataRata() / 3 >= 90;
+        System.out.println("Penilaian Selesai.\n");
     }
 
     /**
