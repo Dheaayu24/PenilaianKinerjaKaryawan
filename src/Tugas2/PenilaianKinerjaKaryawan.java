@@ -91,6 +91,10 @@ public class PenilaianKinerjaKaryawan {
         }
     }
 
+    public boolean isBerprestasiTinggi() {
+        return hitungRataRata() / 3 >= 90;
+    }
+
     /**
      * Menghitung total nilai dari ketiga aspek penilaian.
      *
